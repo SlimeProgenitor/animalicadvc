@@ -1,0 +1,23 @@
+[
+  {
+    "op": "addeach",
+    "file": "feralfox:config/customplayermodels/feralfox.json",
+    "path": "/feralfox/ExtraTraits/-",
+    "dependsOn": [ { "modid": "animalicafoxwolfhyena" } ],
+    "value": ["animalica-vision"]
+  },
+    {
+    "op": "addeach",
+    "file": "feralhyena:config/customplayermodels/feralhyena.json",
+    "path": "/spottedhyena/ExtraTraits/-",
+    "dependsOn": [ { "modid": "animalicafoxwolfhyena" } ],
+    "value": ["animalica-vision"]
+  },
+    {
+    "op": "addeach",
+    "file": "feralwolf:config/customplayermodels/feralwolf.json",
+    "path": "/feralwolf/ExtraTraits/-",
+    "dependsOn": [ { "modid": "animalicafoxwolfhyena" } ],
+    "value": ["animalica-vision"]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "game:trait-animalica-vision": "<font color=\"#ff8214\">• Night Vision </font>",
+
+  "game:charattribute-dv-maxBrightness-0.3": "",
+  "game:charattribute-dv-adaptationTime-40": "",
+  "game:charattribute-dv-adaptationLossTime-30": "",
+  "game:charattribute-dv-desatStartLight-0.1": "",
+  "game:charattribute-dv-desatEndLight-0.7": "",
+  "game:charattribute-dv-maxDesaturation-1": "",
+  "game:charattribute-dv-exposureMultiplier-2": "",
+  "game:charattribute-dv-exposureLag-30": "",
+  "game:charattribute-dv-rampTime-1": "",
+  "game:charattribute-dv-rampTargetPercent-60": "",
+  "game:charattribute-dv-maxUnadaptationMultiplier-2": "",
+  "game:charattribute-dv-closeRangeMultiplier-1": "",
+  "game:charattribute-dv-streaksIntensity-1.5": "",
+  "game:charattribute-dv-streaksLength-0.5": ""
+}
