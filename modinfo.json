@@ -1,0 +1,16 @@
+ {
+  "type": "content",
+  "modid": "advc",
+  "name": "Animalica Dark Vision Compat",
+  "description" : "Adds compatibility between Dark Vision and some of the Animalica models",
+  "authors": ["RobinCait"],
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "",
+    "darkvision": "1.3.6",
+    "animalicacore": "1.1.4"
+  },
+  "side": "universal",
+  "requiredOnClient":true,
+  "requiredOnServer":true
+}
