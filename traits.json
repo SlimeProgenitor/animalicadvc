@@ -1,0 +1,23 @@
+[
+  {
+    "code":"animalica-vision",
+    "type":"positive",
+    "attributes":
+    {
+      "dv-maxBrightness":0.3,
+      "dv-adaptationTime": 40,
+      "dv-adaptationLossTime": 30,
+      "dv-desatStartLight": 6,
+      "dv-desatEndLight": 2,
+      "dv-maxDesaturation": 1,
+      "dv-exposureMultiplier": 2,
+      "dv-exposureLag": 25,
+      "dv-rampTime": 5,
+      "dv-rampTargetPercent": 60,
+      "dv-maxUnadaptationMultiplier": 2,
+      "dv-closeRangeMultiplier": 2,
+      "dv-streaksIntensity": 1.5,
+      "dv-streaksLength": 0.5
+    }
+  }
+]
